@@ -1,0 +1,7 @@
+This is simple neural network that acts like a calculator that adds and substracts random numbers from MNIST dataset.
+
+In order to run it, you will need python Python 3.9 (Python 3.9.13)
+
+Also, you will need to install libraries in requirements.txt
+
+You can do so with command "pip install requirements.txt"
